@@ -1,5 +1,3 @@
-<img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
-
 # DevPortfolio Template
 
 A modern, minimalist portfolio template built with Astro and Tailwind CSS. Perfect for developers looking to showcase their skills, experience, and projects in a clean, professional way.
@@ -9,12 +7,8 @@ This was completely rebuilt from the ground up from V1. This template was built 
 This template also comes with `CLAUDE.md` and `.cursor/rules` files for easy integration with your existing AI workflows.
 
 > **📬 Connect & Share!**  
-> For questions and updates, feel free to reach out on [**X (Twitter)**](https://x.com/rfitzio).  
+> For questions and updates, feel free to reach out on [** Instagram **](https://instagram.com/mhdkh4n_).  
 > If you've built and published your personal site with this template, I'd love to see it! Send me a DM 🚀
-
-## Preview
-
-To view a live preview of the site, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
 ## Built With
 
@@ -184,4 +178,4 @@ This project is fully and completely MIT. See LICENSE.md.
 
 ## Questions?
 
-Feel free to reach out on [X (Twitter)](https://x.com/rfitzio) if you have any questions or need help.
+Feel free to reach out on [(Instagram)](https://instagram.com/mhdkh4n_) if you have any questions or need help.

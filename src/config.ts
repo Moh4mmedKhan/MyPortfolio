@@ -1,92 +1,83 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Mohammed Khan :D",
+  title: "Aspiring Ethical Hacker & Cybersecurity Analyst",
+  description: "Portfolio website of Mohammed Khan",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "mohammedxkhanx@gmail.com",
+    linkedin: "https://linkedin.com/in/MohammedKhan",
+    instagram: "https://instagram.com/mhdkh4n_",
+    github: "https://github.com/Moh4mmedKhan",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "I’m 18 and currently pursuing my Diploma in Computer Engineering and IoT. Over time, I discovered my real passion lies in cybersecurity — understanding how systems work, how they break, and how to defend them. With skills in Python, C, C++, Kali Linux, and networking, I’m training myself to become a disciplined ethical hacker and cybersecurity analyst through practical, project-driven learning.",
+  skills: ["Python", "C", "C++", "Kali Linux", "Networking", "Cybersecurity Tools"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "E-Commerce Website",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A Full Stack E-Commerce Website, built using TypeScript for frontend and Python for backend.",
+      link: "https://github.com/Moh4mmedKhan/EcomStore",
+      skills: ["Python", "TypeScript", "Integrated APIs"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "VirusTotal-Powered Threat Analyzer",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "A lightweight security tool that checks files, hashes, and URLs against the VirusTotal threat intelligence database. Built with Python, it automates malware detection by leveraging VirusTotal’s API.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Python", "API Integration"],
     },
     {
-      name: "ExtensionKit",
+      name: "Object Dodging Game",
       description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "Console based C++ game where the player navigates to avoid falling obstacles.",
+      skills:
+      ["C++"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+       company: "TronSoft Pvt Lmt",
+      title: "Junior Python Developer",
+      dateRange: "Jun 2025 - Sep 2025",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Delivered a functional POS web app (Flask + React) with CRUD operations, authentication, and structured folder architecture.",
+        "Created cybersecurity utilities in Python for hashing, file integrity verification, and simple vulnerability scanning.",
+        "Improved code quality and collaboration by adopting Git workflows, PEP 8 standards, and logging for debugging.",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Udemy Course",
+      title: "The Complete Hands On Cybersecurity Analyst Course",
+      dateRange: "Jun 2025 - Aug 2025",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
+        "Gained practical exposure to core cybersecurity concepts, including networking, encryption, threat analysis, and ethical hacking.",
+        "Applied hands-on labs in Kali Linux for penetration testing, vulnerability scanning, and password attacks.",
+        "Developed Python-based security scripts for automation, hashing, and log analysis to simulate real-world attack/defense scenarios.",
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "TronSoft",
+      title: "Junior Python Developer",
+      dateRange: "Jan 2025 - Mar 2025",
       bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Developed automation scripts for file handling, log parsing, and data processing using Python.", 
+        "Integrated third-party APIs (e.g., VirusTotal) to analyze files, URLs, and hashes for security insights." ,
+        "Built and deployed a basic Flask backend for a local POS system, handling routes and user input." ,
       ],
     },
+   
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Cusrow Wadia Institute Of Technology",
+      degree: "Diploma in Computer Engg & IoT",
+      dateRange: "2023 - ongoing(2026) ",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Studying core computer science subjects including Operating Systems, Networking, and Database Management.",
+        "Strengthened programming foundation in Python, C, and C++ with a focus on problem-solving and system-level understanding.",
+        "Gained exposure to cybersecurity fundamentals (ethical hacking, digital forensics, network defense) through coursework and seminars.",
       ],
     },
   ],
-};
+} 
