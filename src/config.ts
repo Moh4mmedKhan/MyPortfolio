@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Mohammed Khan :D",
-  title: "Aspiring Ethical Hacker & Cybersecurity Analyst",
+  title: "Aspiring Ethical Hacker & Cybersecurity Enthusiast",
   description: "Portfolio website of Mohammed Khan",
   accentColor: "#1d4ed8",
   social: {
@@ -24,8 +24,20 @@ export const siteConfig = {
       name: "VirusTotal-Powered Threat Analyzer",
       description:
         "A lightweight security tool that checks files, hashes, and URLs against the VirusTotal threat intelligence database. Built with Python, it automates malware detection by leveraging VirusTotal’s API.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://github.com/Moh4mmedKhan/VirusTotalScanner",
       skills: ["Python", "API Integration"],
+    },
+    {
+      name: "Web App Attack & Audit" , 
+      description: "web application security scanner which helps developers and penetration testers identify and exploit vulnerabilities in their web applications." ,
+      link: "https://github.com/Moh4mmedKhan/WebScan",
+      skills: ["Python", "HTML", "JS+Shell"],  
+    },
+    {
+      name: "College ERP System" , 
+      description: "A fully responsive college ERP system that is made for students and teacher, build using Python & TypeScript" ,
+      link: "https://github.comMoh4mmedKhan/MycollegeERP",
+      skills: ["Typescript", "Python"], 
     },
     {
       name: "Object Dodging Game",
