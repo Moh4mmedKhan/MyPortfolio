@@ -28,14 +28,14 @@ export const siteConfig = {
       skills: ["Python", "API Integration"],
     },
     {
-      name: "Web App Attack & Audit" , 
-      description: "web application security scanner which helps developers and penetration testers identify and exploit vulnerabilities in their web applications." ,
-      link: "https://github.com/Moh4mmedKhan/WebScan",
-      skills: ["Python", "HTML", "JS+Shell"],  
+      name: "SecurePass ToolKit" , 
+      description: "SecurePass ToolKit is a Python-bases utility that generates strong passwords, evaluates their strenght, and estimates brute-force crack time",
+      link: "https://github.com/Moh4mmedKhan/SecurePass",
+      skills: ["Python"],  
     },
     {
       name: "College ERP System" , 
-      description: "A fully responsive college ERP system that is made for students and teacher, build using Python & TypeScript" ,
+      description: "A fully responsive college ERP system that is made for students and teachers, build using Python & TypeScript" ,
       link: "https://github.comMoh4mmedKhan/MycollegeERP",
       skills: ["Typescript", "Python"], 
     },
@@ -61,9 +61,9 @@ export const siteConfig = {
     {
       company: "Udemy Course",
       title: "The Complete Hands On Cybersecurity Analyst Course",
-      dateRange: "Jun 2025 - Aug 2025",
+      dateRange: "Jun 2025 - Ongoing ",
       bullets: [
-        "Gained practical exposure to core cybersecurity concepts, including networking, encryption, threat analysis, and ethical hacking.",
+        "Gaining practical exposure to core cybersecurity concepts, including networking, encryption, threat analysis, and ethical hacking.",
         "Applied hands-on labs in Kali Linux for penetration testing, vulnerability scanning, and password attacks.",
         "Developed Python-based security scripts for automation, hashing, and log analysis to simulate real-world attack/defense scenarios.",
       ],
